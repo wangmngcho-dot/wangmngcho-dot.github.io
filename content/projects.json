@@ -1,33 +1,34 @@
 [
   {
     "slug": "water-town-lab",
-    "title": "WATER–TOWN LAB",
+    "title": "WATER–TOWN LABS",
     "category": "Systems",
     "tags": [
       "Systems",
       "Research"
     ],
     "year": "2024—PRESENT",
-    "cover": "assets/system-home.webp",
+    "cover": "assets/water-story-01.webp",
     "images": [
-      "assets/platform-screen-01.webp",
-      "assets/platform-screen-02.webp",
-      "assets/platform-screen-03.webp",
-      "assets/platform-screen-04.webp",
-      "assets/platform-screen-05.webp",
-      "assets/platform-screen-06.webp"
+      "assets/water-story-01.webp",
+      "assets/water-story-02.webp",
+      "assets/water-story-03.webp",
+      "assets/water-story-04.webp",
+      "assets/water-story-05.webp",
+      "assets/water-story-06.webp"
     ],
-    "statement": "A design-support system that turns situated knowledge into a working creative environment.",
+    "statement": "A research-led workspace connecting cultural references, design exploration, moving images and human judgement.",
     "statementZh": "将领域知识转化为可用创意环境的设计支持系统。",
-    "context": "A long-term exploration of how contextual information becomes accessible within creative tasks. The public archive presents interaction design, working interfaces and a selective account of the research process.",
+    "context": "A working design-support environment that brings evidence, exploration, moving presentation and review into a connected creative experience.",
     "contextZh": "长期探索领域信息如何支持真实创作任务。公开档案展示交互界面、系统体验与经过筛选的研究实践。",
-    "role": "Research direction · Information architecture · System prototyping · Empirical evaluation",
+    "role": "Research framing · Knowledge organisation · System prototyping · Interaction design · Design evaluation",
     "roleZh": "研究方向 · 信息架构 · 系统原型 · 实证评价",
     "outcome": "A working research prototype and selected documentation. Sensitive study details remain outside this public archive.",
     "outcomeZh": "可运行的研究原型与精选项目记录；尚未公开的研究细节未包含于本网站。",
     "kind": "system",
     "number": "01",
-    "level": 0
+    "level": 0,
+    "video": "media/water-town-product-story-2026.mp4"
   },
   {
     "slug": "cultural-reinterpretations",
