@@ -18,13 +18,9 @@
       "assets/water-story-06.webp"
     ],
     "statement": "A research-led workspace connecting cultural references, design exploration, moving images and human judgement.",
-    "statementZh": "将领域知识转化为可用创意环境的设计支持系统。",
     "context": "A working design-support environment that brings evidence, exploration, moving presentation and review into a connected creative experience.",
-    "contextZh": "长期探索领域信息如何支持真实创作任务。公开档案展示交互界面、系统体验与经过筛选的研究实践。",
     "role": "Research framing · Knowledge organisation · System prototyping · Interaction design · Design evaluation",
-    "roleZh": "研究方向 · 信息架构 · 系统原型 · 实证评价",
     "outcome": "A working research prototype and selected documentation. Sensitive study details remain outside this public archive.",
-    "outcomeZh": "可运行的研究原型与精选项目记录；尚未公开的研究细节未包含于本网站。",
     "kind": "system",
     "number": "01",
     "level": 0,
@@ -69,14 +65,131 @@
     "cover": "assets/collection-contemporary-exclusive.webp",
     "images": [],
     "children": [
+      "flink",
       "no-jury",
       "red-incident",
       "faded-muse",
       "be-decent"
     ],
-    "statement": "Four image-led projects tracing perception, performance and modern fashion identities.",
-    "context": "Fashion imagery becomes a space for questioning judgement, spectacle, nostalgia and the discipline of appearances.",
+    "statement": "Five projects exploring perception, performance and fashion through still and moving images.",
+    "context": "Fashion imagery becomes a space for questioning judgement, spectacle, nostalgia and the performance of identity. Selected films extend these enquiries through gesture, time and place.",
     "role": "Art direction · Fashion imagery · Conceptual narratives"
+  },
+  {
+    "slug": "body-as-signal",
+    "title": "BODY AS SIGNAL",
+    "category": "Interactive Media",
+    "tags": [
+      "Interactive",
+      "Motion"
+    ],
+    "year": "2026",
+    "kind": "media",
+    "number": "04",
+    "level": 0,
+    "cover": "assets/body-as-signal-01.webp",
+    "subtitle": "The body as image / TouchDesigner",
+    "statement": "A TouchDesigner study of the body as image, moving between tracked gestures, digital masks and unstable visual forms.",
+    "question": "When does a familiar face become unfamiliar?",
+    "context": "Body as Signal brings together body-tracking recordings, digital mask experiments and moving-image studies made with TouchDesigner. A familiar face becomes a tracked outline, an overlaid mask and a fragmenting visual form.",
+    "paragraphs": [
+      "Monochrome recordings meet cyan and magenta images. Grain, displaced colour and an obscured gaze introduce distance between the body and its representation. Editing and sound bring the experiments into a short sequence of recognition, transformation and return.",
+      "The project explores the body as material for image-making: something that can be recorded, reconfigured and made unfamiliar through a computational medium."
+    ],
+    "films": [
+      {
+        "title": "Body as Signal",
+        "label": "EXPERIMENTAL FILM",
+        "duration": "00:56",
+        "src": "media/body-as-signal.mp4",
+        "poster": "assets/body-as-signal-02.webp",
+        "ratio": "1916 / 1080",
+        "description": "Face and hand tracking, digital masks and abstract visual studies, brought together in an experimental film."
+      }
+    ],
+    "sections": [
+      {
+        "label": "01 / PROTOTYPE RECORDINGS",
+        "title": "Tracking a presence.",
+        "text": "The selected recordings show facial and hand landmarks, digital mask overlays and changing visual states. These are separate records of related experiments.",
+        "layout": "pair",
+        "images": [
+          {
+            "src": "assets/body-as-signal-03.webp",
+            "title": "Tracking the visible body",
+            "caption": "Facial and hand landmarks within an input recording.",
+            "alt": "A monochrome figure holds up both hands, with landmarks and lines over the face and fingers."
+          },
+          {
+            "src": "assets/body-as-signal-04.webp",
+            "title": "The face as an overlay",
+            "caption": "A digital mask appears within a recorded prototype.",
+            "alt": "A digital mask covers a face while both hands remain visible with tracking markers."
+          }
+        ]
+      },
+      {
+        "label": "02 / CHANGING STATES",
+        "title": "An unstable image.",
+        "text": "The facial image gives way to a field of particles. The change shifts attention from an identifiable face to its unstable visual representation.",
+        "layout": "wide",
+        "images": [
+          {
+            "src": "assets/body-as-signal-05.webp",
+            "title": "From face to particles",
+            "caption": "A changing visual state within the mask recording.",
+            "alt": "A face appears fragmented into a dense field of particles beside a raised hand."
+          }
+        ]
+      },
+      {
+        "label": "03 / VISUAL STUDIES",
+        "title": "Towards abstraction.",
+        "text": "Separate visual studies explore contour, colour and fragmentation. The body remains a point of reference as its outline becomes harder to read.",
+        "layout": "pair",
+        "images": [
+          {
+            "src": "assets/body-as-signal-06.webp",
+            "title": "Contour and gesture",
+            "caption": "A reduced visual structure retains the outline of the body.",
+            "alt": "A cyan and purple human outline with a raised hand against a dark background."
+          },
+          {
+            "src": "assets/body-as-signal-07.webp",
+            "title": "A loosening outline",
+            "caption": "Colour and distortion loosen the boundary of the figure.",
+            "alt": "Cyan and magenta abstract forms distort a human figure against black."
+          }
+        ]
+      },
+      {
+        "label": "04 / AFTERIMAGE",
+        "title": "A partial return.",
+        "text": "The figure reappears with the eyes obscured. Even when its image becomes difficult to read, the body remains the point of reference.",
+        "layout": "wide",
+        "images": [
+          {
+            "src": "assets/body-as-signal-08.webp",
+            "title": "An obscured gaze",
+            "caption": "A return to the figure, with colour displacement and a concealed gaze.",
+            "alt": "A monochrome portrait has a horizontal obscured area over the eyes and displaced coloured edges."
+          }
+        ]
+      }
+    ],
+    "closing": "The body remains, even as its image changes.",
+    "credits": [
+      {
+        "label": "MEDIUM",
+        "text": "TouchDesigner experiments / Experimental film"
+      },
+      {
+        "label": "FINAL EDIT",
+        "text": "Mingchao Wang"
+      }
+    ],
+    "related": "flink",
+    "relatedLabel": "FLINK / FASHION FILMS"
   },
   {
     "slug": "ancestors-through",
@@ -98,13 +211,9 @@
       "assets/ancestors-through-frame-08.webp"
     ],
     "statement": "Fashion is constantly reinventing the way we dress, but what happens to the cultural knowledge embedded in the things we wear?",
-    "statementZh": "",
     "context": "Drawing from the cultural traditions of the Li people of Hainan, China, this visual project explores the intersection of ancestral craftsmanship and contemporary fashion. At its centre are two distinctive cultural references: traditional facial tattooing and bark-cloth clothing. One places cultural expression directly upon the body; the other reveals an early relationship between the human body, natural materials and the making of dress.",
-    "contextZh": "",
     "role": "Cultural reinterpretation · fashion direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Li cultural fashion imagery",
     "editorial": "Drawing from the cultural traditions of the Li people of Hainan, China, this visual project explores the intersection of ancestral craftsmanship and contemporary fashion. At its centre are two distinctive cultural references: traditional facial tattooing and bark-cloth clothing. One places cultural expression directly upon the body; the other reveals an early relationship between the human body, natural materials and the making of dress.\n\nThese references are reinterpreted through sculptural silhouettes, weathered textures, restrained colour and a cinematic visual language. Elements of Li brocade weaving and the rhythmic movements of the traditional bamboo dance further inform the dialogue between garment, body and image. Concealed faces, fragmented compositions and controlled lighting move the work away from a conventional presentation of ethnic dress, creating a more experimental fashion identity.\n\nBeyond its visual experimentation, the project considers the future of traditional dress cultures within an increasingly globalised fashion landscape. Rather than treating heritage as a collection of recognisable motifs, it explores how material knowledge, bodily expression and cultural identity might inform new aesthetics.\n\nThe central question is not simply how traditional clothing can be made contemporary, but what remains culturally meaningful as its visual language evolves.",
@@ -135,13 +244,9 @@
       "assets/paper-shadow-frame-07.webp"
     ],
     "statement": "The shadow moves before the body does.",
-    "statementZh": "",
     "context": "Rooted in the visual traditions of Chinese shadow puppetry, *Paper Shadow* brings the theatrical world of silhouettes, articulated figures and illuminated screens into contemporary fashion imagery. Here, the human body becomes both performer and puppet, caught between the freedom of movement and the invisible forces that shape it.",
-    "contextZh": "",
     "role": "Experimental fashion · art direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Chinese shadow puppetry",
     "editorial": "Rooted in the visual traditions of Chinese shadow puppetry, Paper Shadow brings the theatrical world of silhouettes, articulated figures and illuminated screens into contemporary fashion imagery. Here, the human body becomes both performer and puppet, caught between the freedom of movement and the invisible forces that shape it.\n\nFine red threads trace the space between gesture and control. Ornamental puppet figures emerge across structured garments, while layered surfaces, fragmented portraits and overlapping shadows dissolve the boundary between the physical and the imagined. Muted tones, dramatic contrasts and carefully directed light evoke the atmosphere of an intimate theatre, where even the smallest movement carries meaning.\n\nAt the heart of the work is a fascination with the relationship between appearance and agency. A shadow puppet takes on a life of its own through the hands of another; fashion, too, constructs identities through what is worn, displayed and perceived.\n\nBy placing an ancient theatrical language within a contemporary editorial setting, Paper Shadow explores clothing as a form of performance—and the body as a space where identity is continually staged, concealed and transformed.",
@@ -173,13 +278,9 @@
       "assets/invisible-axis-frame-08.webp"
     ],
     "statement": "What if a garment could become a map of an invisible world?",
-    "statementZh": "",
     "context": "Inspired by the cosmological imagination of Hetu and Luoshu and the visual heritage of Tianji Miao dress, *The Invisible Axis* explores the relationship between the human body, symbolic order and spatial construction.",
-    "contextZh": "",
     "role": "Spatial narrative · art direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Hetu–Luoshu × Tianji Miao",
     "editorial": "Inspired by the cosmological imagination of Hetu and Luoshu and the visual heritage of Tianji Miao dress, The Invisible Axis explores the relationship between the human body, symbolic order and spatial construction.\n\nSilver-toned surfaces, angular silhouettes and a sharply defined conical headpiece create an almost architectural figure. Fine threads extend beyond the clothing, crossing the surrounding space like lines on an unfinished map. Subtle interruptions of blue and red emerge within a restrained palette, while dramatic lighting and deliberate compositions transform the dressed body into a living structure.\n\nThe work approaches fashion as more than an arrangement of garments and cultural references. Clothing becomes a means of organising space, directing attention and giving physical presence to abstract ideas. Through the interplay of structure, gesture and photographic composition, the figure appears simultaneously grounded in material reality and suspended within an imagined system.\n\nThe Invisible Axis proposes a different way of looking at cultural imagery: not simply as ornament to be preserved, but as a source of new spatial and visual possibilities.",
@@ -211,13 +312,9 @@
       "assets/ancestral-image-frame-08.webp"
     ],
     "statement": "A portrait does not always need a face.",
-    "statementZh": "",
     "context": "*Ancestral Image* reimagines the visual identity of the She people through the language of contemporary fashion. Drawing on the distinctive headdresses, embroidered garments and ancestral imagery of She culture, the series explores how clothing can carry a sense of identity that extends beyond the individual.",
-    "contextZh": "",
     "role": "Cultural identity · fashion direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "She cultural imagery",
     "editorial": "Ancestral Image reimagines the visual identity of the She people through the language of contemporary fashion. Drawing on the distinctive headdresses, embroidered garments and ancestral imagery of She culture, the series explores how clothing can carry a sense of identity that extends beyond the individual.\n\nElaborate headpieces become almost architectural. Metallic ornaments fall across obscured faces, while deep indigo textiles, embroidered surfaces and sweeping sleeves construct powerful, sculptural silhouettes. Against dark, restrained settings, light reveals fragments of texture and movement, allowing the garments themselves to become the subject of each portrait.\n\nThe deliberate concealment of the face introduces a tension between individuality and collective identity. The wearer remains present, yet it is the clothing that speaks first—through its craftsmanship, visual codes and accumulated cultural associations.\n\nAt a time when fashion increasingly circulates through rapidly changing images, Ancestral Image considers what it means to inherit a visual identity. The work presents cultural dress not as a fixed image of the past, but as a living source of contemporary imagination.\n\nWhat we inherit is not only what we remember, but also how we choose to be seen.",
@@ -249,13 +346,9 @@
       "assets/fire-ritual-frame-08.webp"
     ],
     "statement": "Fire is never only an element. It is a force, a threshold, a form of belief.",
-    "statementZh": "",
     "context": "*Fire Ritual* draws from the ceremonial atmosphere and visual intensity associated with Yi cultural traditions, translating them into a dark and highly controlled fashion narrative. Rather than illustrating ritual directly, the project works through tension—between concealment and revelation, stillness and ignition, austerity and ornament.",
-    "contextZh": "",
     "role": "Ritual aesthetics · art direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Yi cultural imagery",
     "editorial": "Fire Ritual draws from the ceremonial atmosphere and visual intensity associated with Yi cultural traditions, translating them into a dark and highly controlled fashion narrative. Rather than illustrating ritual directly, the project works through tension—between concealment and revelation, stillness and ignition, austerity and ornament.\n\nStructured silhouettes, dense surfaces and layered adornment create a figure that feels both grounded and untouchable. The headdress becomes a ritual architecture of its own, extending the body upward while partially obscuring the face. Light falls selectively across textures, metallic details and embroidered fragments, producing an image that is less about costume display than about presence.\n\nThe project is driven by the idea that ritual dress does more than decorate the body: it transforms the body into a site of energy, discipline and symbolic meaning. In this context, fashion becomes a medium for staging intensity. The image does not seek realism in a documentary sense, but emotional precision—an atmosphere in which the body appears to stand at the edge of invocation.\n\nBy reworking ceremonial references through contemporary styling and photographic direction, Fire Ritual proposes a fashion image shaped by restraint, darkness and spiritual charge.",
@@ -288,13 +381,9 @@
       "assets/crane-ritual-frame-08.webp"
     ],
     "statement": "A bird is not defined by its wings, but by the way it moves.",
-    "statementZh": "",
     "context": "In *The Crane Ritual*, the elegance of the crane is stripped of its familiar symbolism and reconstructed through the human body. Inspired by the crane-dance traditions of the Korean ethnic community in China, the project explores how movement, clothing and cinematic imagery can evoke the presence of a creature without directly imitating its appearance.",
-    "contextZh": "",
     "role": "Movement · visual direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Korean ethnic crane dance",
     "editorial": "In The Crane Ritual, the elegance of the crane is stripped of its familiar symbolism and reconstructed through the human body. Inspired by the crane-dance traditions of the Korean ethnic community in China, the project explores how movement, clothing and cinematic imagery can evoke the presence of a creature without directly imitating its appearance.\n\nElongated headpieces, suspended strands and fluid layers of fabric create a silhouette that shifts between the human and the avian. Against a subdued blue-grey atmosphere, gestures become deliberately restrained. A raised hand, an inclined head or the movement of a sleeve is given the significance of a larger choreographic sequence. Intimate framing and low-key illumination allow texture, movement and negative space to carry the visual narrative.\n\nThe project approaches dance not simply as a sequence of movements, but as a way of organising the relationship between body, garment and image. Fashion becomes an extension of choreography, while the camera determines what is revealed, withheld or left to the imagination.\n\nThe Crane Ritual is an exploration of how traditional performing arts can inspire a contemporary visual language—one in which stillness carries as much expressive force as movement.\n\nFour fashion editorials engaging with judgement, spectacle, nostalgia and the performance of social identity.",
@@ -323,13 +412,9 @@
       "assets/no-jury-cover.webp"
     ],
     "statement": "Everyone has an opinion. Not everyone has the right to pass judgement.",
-    "statementZh": "",
     "context": "*NO JURY* examines the uncomfortable space between being seen and being judged. In a culture where appearances are constantly evaluated, categorised and reduced to labels, the project questions how easily individuality can disappear behind the identities imposed upon us.",
-    "contextZh": "",
     "role": "Conceptual fashion · social commentary",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Social judgement & identity",
     "editorial": "NO JURY examines the uncomfortable space between being seen and being judged. In a culture where appearances are constantly evaluated, categorised and reduced to labels, the project questions how easily individuality can disappear behind the identities imposed upon us.\n\nA hooded figure sits in a deteriorating interior, dressed in distressed grey fabric with exposed seams and restrictive layers. A numbered tag replaces personal identity; a collar suggests obedience, ownership and control. Against this muted environment, flashes of red introduce a sense of vulnerability and suppressed resistance. The imagery deliberately avoids conventional fashion glamour, favouring discomfort, ambiguity and psychological tension.\n\nThe visual language draws upon the aesthetics of confinement and social exclusion. Through obscured facial features, intimate compositions and unsettling details, clothing becomes a means of exploring the relationship between power, perception and human dignity.\n\nYet NO JURY is not simply about those who are judged. It also implicates the viewer. Every image invites interpretation, and every interpretation carries the possibility of prejudice.\n\nBefore you decide who someone is, consider what you have actually seen.",
@@ -361,13 +446,9 @@
       "assets/red-incident-frame-08.webp"
     ],
     "statement": "She is dressed for an occasion that does not exist.",
-    "statementZh": "",
     "context": "A woman in an extravagant red gown appears in the most unlikely of places. Underground car parks, deserted corridors and rain-soaked concrete replace the polished interiors of conventional fashion photography. Nothing in the environment belongs to her, yet she commands every frame.",
-    "contextZh": "",
     "role": "Cinematic fashion · art direction",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Cinematic fashion editorial",
     "editorial": "A woman in an extravagant red gown appears in the most unlikely of places. Underground car parks, deserted corridors and rain-soaked concrete replace the polished interiors of conventional fashion photography. Nothing in the environment belongs to her, yet she commands every frame.\n\nThe Red Incident builds its visual identity around a deliberate collision between glamour and the ordinary. The exaggerated volume of the dress interrupts the rigid geometry of industrial spaces, while saturated crimson cuts through the cold, desaturated surroundings. Harsh artificial light, reflective surfaces and cinematic framing lend the images an atmosphere somewhere between a fashion campaign and a scene from an unfinished film.\n\nThere is no explicit narrative, no explanation for her arrival and no resolution to anticipate. The ambiguity is intentional: the images borrow the visual tension of cinema without surrendering the autonomy of fashion.\n\nThe series challenges the expectation that beauty must be presented in beautiful surroundings. By removing haute couture from its familiar context, The Red Incident turns fashion into an intrusion—spectacular, unsettling and impossible to ignore.\n\nSome appearances are incidents in themselves.",
@@ -399,13 +480,9 @@
       "assets/faded-muse-frame-08.webp"
     ],
     "statement": "Yesterday's future, today's faded muse.",
-    "statementZh": "",
     "context": "*FADED MUSE* revisits the rebellious femininity of the early 2000s through a visual language that feels both nostalgic and strangely displaced in time. The series imagines the Y2K bad girl as a figure caught between eras—once a symbol of youthful excess, now an image resurfacing from a forgotten fashion magazine.",
-    "contextZh": "",
     "role": "Fashion editorial · visual culture",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "Y2K visual culture",
     "editorial": "FADED MUSE revisits the rebellious femininity of the early 2000s through a visual language that feels both nostalgic and strangely displaced in time. The series imagines the Y2K bad girl as a figure caught between eras—once a symbol of youthful excess, now an image resurfacing from a forgotten fashion magazine.\n\nLow-slung silhouettes, exposed skin, delicate draping and layered jewellery evoke the unapologetic glamour of millennial pop culture. Yet the familiar codes of Y2K fashion are softened by dusty rose tones, muted metallics, diffused light and the imperfect texture of an ageing photograph. The result is a deliberate contradiction: provocative styling presented through the visual atmosphere of a fading memory.\n\nRather than reproducing the glossy optimism typically associated with the turn of the millennium, the editorial examines how fashion aesthetics are remembered, recycled and romanticised. Its magazine-inspired compositions blur the distinction between a contemporary fashion image and an imagined archival artefact.\n\nFADED MUSE treats nostalgia as a form of creative reconstruction. What once represented the future eventually becomes the past, yet its ability to provoke desire, identification and reinvention remains.\n\nThe muse fades. The attitude doesn't.",
@@ -437,13 +514,9 @@
       "assets/be-decent-frame-08.webp"
     ],
     "statement": "The instruction sounds polite. Its weight is anything but.",
-    "statementZh": "",
     "context": "*Be decent.* turns the familiar expectation of looking presentable into a choreography of discomfort. In a spare, monochrome setting, a figure appears in an immaculate white ensemble, interrupted by a sharply structured black waist and an oversized collar that nearly swallows the face. Everything suggests composure: clean lines, disciplined tailoring, a carefully constructed appearance. Yet the body refuses to cooperate.",
-    "contextZh": "",
     "role": "Conceptual fashion · body performance",
-    "roleZh": "",
     "outcome": "Selected visual work. Visual direction, composition and garment language are presented through curated stills.",
-    "outcomeZh": "精选视觉作品，以策展图像呈现造型、构图及服装视觉语言。",
     "kind": "fashion",
     "subtitle": "The performance of composure",
     "editorial": "Be decent. turns the familiar expectation of looking presentable into a choreography of discomfort. In a spare, monochrome setting, a figure appears in an immaculate white ensemble, interrupted by a sharply structured black waist and an oversized collar that nearly swallows the face. Everything suggests composure: clean lines, disciplined tailoring, a carefully constructed appearance. Yet the body refuses to cooperate.\n\nThe figure bends awkwardly through doorways, balances uneasily on furniture and moves between elegance and absurdity. Drawing on the visual language of physical theatre and staged portraiture, the series uses exaggerated gestures, architectural silhouettes and restrained black-and-white photography to expose the effort behind an apparently effortless appearance.\n\nHere, clothing becomes both an instrument of self-presentation and a subtle form of constraint. The polished exterior promises control, while the restless body reveals the contradictions beneath it. What appears sophisticated in one frame becomes faintly ridiculous in the next.\n\nRather than questioning beauty itself, Be decent. examines the social performance required to maintain it. The project finds its humour in the distance between how we are expected to appear and how we actually feel.\n\nPerhaps the most exhausting performance is pretending that nothing is difficult at all.",
@@ -454,5 +527,114 @@
     "totalOriginalImages": 12,
     "video": null,
     "videoPoster": null
+  },
+  {
+    "slug": "flink",
+    "title": "FLINK",
+    "category": "Fashion",
+    "tags": [
+      "Fashion",
+      "Motion"
+    ],
+    "year": "",
+    "kind": "media",
+    "number": "2.05",
+    "level": 1,
+    "parent": "contemporary-expression",
+    "cover": "assets/flink-01.webp",
+    "subtitle": "Fashion, city and memory / Two films",
+    "statement": "Two fashion films exploring how dress, people and the city become images of memory.",
+    "question": "How does a garment leave an image of a person?",
+    "context": "Two short films bring dress, the figure and urban space into different ways of seeing. One moves through colour, glances and changing settings; the other follows a darker silhouette into trees, water and mist.",
+    "paragraphs": [
+      "In the colour film, rain-streaked windows, city streets and vivid yellow structures frame changing encounters. Clothing moves with the body and becomes a way of recognising a figure across different settings.",
+      "The monochrome film draws attention to black clothing and the outline of the body. Walking figures, smoke and blurred surroundings give way to branches, rooflines and a small boat in the mist. Space carries the image after the figure has left it.",
+      "Together, the films explore how dress shapes more than a silhouette. It contributes to a figure’s presence, its relationship to a place and the way an image is remembered."
+    ],
+    "films": [
+      {
+        "title": "Film 01 — Colour",
+        "label": "COLOUR",
+        "duration": "00:54",
+        "src": "media/flink-colour.mp4",
+        "poster": "assets/flink-02.webp",
+        "ratio": "1454 / 1080",
+        "description": "Glances, encounters and changing urban settings lead towards black-and-white clothing against vivid yellow structures."
+      },
+      {
+        "title": "Film 02 — Monochrome",
+        "label": "MONOCHROME",
+        "duration": "00:52",
+        "src": "media/flink-monochrome.mp4",
+        "poster": "assets/flink-03.webp",
+        "ratio": "1454 / 1080",
+        "description": "A dark silhouette moves through waterside spaces. Grain, scratches and displaced colour lend the images the texture of recollection."
+      }
+    ],
+    "sections": [
+      {
+        "label": "01 / COLOUR",
+        "title": "Glances and encounters.",
+        "text": "Colour and framing connect changing settings. Dress remains in dialogue with the figure and the space around it.",
+        "layout": "pair",
+        "images": [
+          {
+            "src": "assets/flink-04.webp",
+            "title": "Between two figures",
+            "caption": "Glances and distance organise the encounter.",
+            "alt": "A monochrome close view of two figures, one holding a cigarette, with their faces turned in different directions."
+          },
+          {
+            "src": "assets/flink-05.webp",
+            "title": "Dress in the city",
+            "caption": "A dark silhouette crosses a cool-toned urban space.",
+            "alt": "A figure in a flowing black outfit walks in profile across a pale urban courtyard."
+          }
+        ]
+      },
+      {
+        "label": "02 / MONOCHROME",
+        "title": "The figure, then the place.",
+        "text": "The focus shifts from clothing and gesture to the traces of an environment: blurred surroundings, branches and the edge of a roof.",
+        "layout": "pair",
+        "images": [
+          {
+            "src": "assets/flink-06.webp",
+            "title": "A passing presence",
+            "caption": "The figure remains legible as the surroundings blur.",
+            "alt": "A dark-clothed figure in profile stands against a blurred monochrome street, with yellow and purple edge displacement."
+          },
+          {
+            "src": "assets/flink-07.webp",
+            "title": "Looking beyond the figure",
+            "caption": "The gaze turns upwards, towards branches and rooflines.",
+            "alt": "An upward monochrome view of tree branches between traditional roof edges, with grain and coloured edge displacement."
+          }
+        ]
+      },
+      {
+        "label": "03 / AFTER THE FIGURE",
+        "title": "What the space holds.",
+        "text": "Water and mist extend the sequence beyond the figure. A small boat becomes the final point of attention.",
+        "layout": "wide",
+        "images": [
+          {
+            "src": "assets/flink-08.webp",
+            "title": "Water and distance",
+            "caption": "A small boat remains within a field of mist.",
+            "alt": "A small boat on a misty monochrome lake, with a distant shoreline and visible grain."
+          }
+        ]
+      }
+    ],
+    "closing": "The figure leaves. An image remains.",
+    "credits": [
+      {
+        "label": "FORMAT",
+        "text": "Two fashion films / Colour and monochrome"
+      }
+    ],
+    "related": "body-as-signal",
+    "relatedLabel": "BODY AS SIGNAL / INTERACTIVE MEDIA"
   }
 ]
