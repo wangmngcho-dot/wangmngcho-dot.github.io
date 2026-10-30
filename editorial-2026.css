@@ -25,3 +25,5 @@ body,button,a,.project-row{cursor:auto}button,a,.project-row{cursor:pointer}
 .row-title{font-size:clamp(25px,3.2vw,52px);font-weight:500;letter-spacing:-.015em;line-height:1.2}
 .detail-title,.collection-copy strong{letter-spacing:-.025em;line-height:1.08}
 @media(max-width:760px){.row-title{font-size:clamp(23px,6.6vw,34px);letter-spacing:0;line-height:1.2}}
+
+.media-recovery{padding:18px 0;display:flex;flex-wrap:wrap;align-items:center;gap:15px;color:inherit;font-size:13px;line-height:1.5}.media-recovery[hidden]{display:none}.media-recovery span{flex-basis:100%;color:#bdbdbd}.media-recovery button,.media-recovery a{border:0;border-bottom:1px solid currentColor;background:none;color:inherit;padding:6px 0;font:inherit}.media-recovery button:hover,.media-recovery a:hover{color:#bda8e8}
